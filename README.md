@@ -28,3 +28,22 @@ An efficient desktop application that allows users to compare mobile phone price
 1. Clone the repository:
    ```bash
    git clone https://github.com/HussainMhm/mobile-price-comparison-tracking-system.git
+
+2. Navigate to the cloned directory:
+   ```bash
+   cd mobile-price-comparison-tracking-system
+
+3. Install the required Python libraries:
+   ```bash
+   pip install -r requirements.txt
+
+## Usage
+1. Start the application:
+   ```bash
+   python main.py
+2. Use the search functionality to compare prices or provide a direct product link to start tracking its price changes.
+3. Set up your email in the settings to receive notifications for price drops.
+
+## Contributions
+Contributions, issues, and feature requests are welcome.
+
